@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a software engineer currently based in Seoul, South Korea.
+I'm a software engineer currently based in Seoul, South Korea. Here is my latest [resume](https://intizar-t.github.io/resume.github.io/).
 
 <details>
 <summary>
