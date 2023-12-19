@@ -2,6 +2,13 @@
 
 I'm a software engineer currently based in Seoul, South Korea. Here is my latest [resume](https://intizar-t.github.io/resume.github.io/).
 
+<!---
+<details>
+<summary>
+  More stuff about me
+</summary>
+-->
+
 ## Quick overview
 
 #### GitHub stats
@@ -66,3 +73,7 @@ for tablets on C++ to cloud computing. I'm also passionate about AI applications
 ## What I'm currently learning 📚
 
 - Rebuilding my [Family Store](https://intizar-t.github.io/family-store/) project with Flutter as an android and ios mobile app. Long term plan is to monetize the app on app and play stores.
+
+<!---
+</details>
+-->
