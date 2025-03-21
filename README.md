@@ -1,13 +1,6 @@
 # Hi everyone :wave:
 
-I'm a software engineer currently based in Seoul, South Korea. Here is my latest [resume](https://intizar-t.github.io/resume.github.io/).
-
-<!---
-<details>
-<summary>
-  More stuff about me
-</summary>
--->
+I'm a software engineer currently based in Seoul, South Korea. Here is my latest [resume](https://intizar-t.github.io/resume/).
 
 ## Quick overview
 
@@ -21,9 +14,8 @@ I'm a software engineer currently based in Seoul, South Korea. Here is my latest
 
 ## About me
 
-I graduated from [KAIST](https://www.kaist.ac.kr/en/) with bachelor's degree in Computer Science in August, 2022. I've been working as a software engineer since then in various companies. I like being
-multidisciplinary while digging deep into each field as much as I can. Thus, gained experience in fields varying from high level web and mobile app development to lower level docker image executable
-for tablets on C++ to cloud computing. I'm also passionate about AI applications and blockchain development.
+I graduated from [KAIST](https://www.kaist.ac.kr/en/) with bachelor's degree in Computer Science & Chemical Engineering in August, 2022. I've been working as a software engineer since then. I like being
+multidisciplinary while digging deep into each field as much as I can. Thus, I've gained experience in fields varying from web and mobile app development to backend and blockchain to cloud computing.
 
 <br />
 
@@ -31,11 +23,11 @@ for tablets on C++ to cloud computing. I'm also passionate about AI applications
 
 ### Programming
 
-- C# / C++
+- Go
+- C++
 - Python
 - JavaScript / Typescript
-- Java
-- Scala
+- Solidity
 
 ### Development
 
@@ -43,23 +35,28 @@ for tablets on C++ to cloud computing. I'm also passionate about AI applications
 - Node.js
 - Next.js
 - Django
-- Dash
 - Flask
 - HTML, CSS, SCSS
 
 ### Databases
 
-- MySQL
-- PostgreSQL (Prisma)
+- SQL (MySQL, PostgreSQL, Clickhouse)
+- NoSQL (MongoDB, DynamoDB)
+- Key-Value Store (Redis)
 
 ### Cloud
 
-- AWS (Lambda, EC2 ECS, ECR, DynamoDB, S3, SageMaker, Cloudwatch, etc.)
-- GCP (Kubernetes, Artifact Registry, etc.)
+- AWS
+- GCP
 
 ### Version Control
 
-- Git
+- Git (Github, Bitbucket, Codecommit)
+
+### CI/CD
+- Github Actions
+- Docker
+- Codedeploy
 
 ### Languages 🌐
 
@@ -67,13 +64,4 @@ for tablets on C++ to cloud computing. I'm also passionate about AI applications
 | -------- | ------------------- |
 | English  | Fluent              |
 | Turkish  | Working Proficiency |
-| Russian  | Working Proficiency |
 | Turkmen  | Native              |
-
-## What I'm currently learning 📚
-
-- Rebuilding my [Family Store](https://intizar-t.github.io/family-store/) project with Flutter as an android and ios mobile app. Long term plan is to monetize the app on app and play stores.
-
-<!---
-</details>
--->
